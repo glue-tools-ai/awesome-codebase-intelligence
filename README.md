@@ -32,6 +32,7 @@ Tools that parse, index, and make codebases queryable.
 - [DeepSource](https://deepsource.com) - Automated code quality and security analysis with low false-positive rates and auto-fix suggestions.
 - [Code Climate](https://codeclimate.com) - Quality and maintainability scoring with test coverage tracking and engineering insights.
 - [NDepend](https://www.ndepend.com) - .NET-specific code analysis with dependency graphs, code metrics, and architecture validation rules.
+- [ctx-optimize](https://github.com/muthuishere/ctx-optimize) - Deterministic code knowledge-graph CLI; a single Go binary indexes a repo with tree-sitter into a local graph an agent queries for symbols, callers, callees, and change impact, without an LLM at query time.
 
 ## AI Code Assistants
 
