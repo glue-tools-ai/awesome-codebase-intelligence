@@ -46,6 +46,7 @@ AI-powered tools that help developers write, understand, and navigate code.
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - Anthropic's CLI tool for agentic coding with full terminal and file system access.
 
 ## Code Visualization & Mapping
+- [Canopy](https://canopy.8starlabs.com/) - Visual architecture maps from GitHub repos, showing services, dependencies, ownership, cost context, and AI-ready exports.
 
 Tools that create visual representations of code structure, dependencies, and architecture.
 
