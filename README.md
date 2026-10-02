@@ -59,11 +59,12 @@ Tools that create visual representations of code structure, dependencies, and ar
 
 Tools for creating, maintaining, and auto-generating documentation from code.
 
-- [Swimm](https://swimm.io) - AI-driven documentation that stays coupled to code and auto-updates when code changes.
+- [Backstage](https://backstage.io) - Spotify's open-source developer portal for service catalogs, docs, and tooling integration.
+- [DocuMint](https://github.com/Wonderer-Tech/documint) - VS Code extension that generates source-grounded project maps and Markdown/HTML documentation locally, with optional AI.
+- [Docusaurus](https://docusaurus.io) - Open-source documentation framework by Meta with versioning, i18n, and search built in.
 - [Mintlify](https://www.mintlify.com) - Modern docs-as-code platform with AI-powered writing assistance and beautiful default themes.
 - [ReadMe](https://readme.com) - Interactive API documentation with usage analytics, changelogs, and developer hub features.
-- [Docusaurus](https://docusaurus.io) - Open-source documentation framework by Meta with versioning, i18n, and search built in.
-- [Backstage](https://backstage.io) - Spotify's open-source developer portal for service catalogs, docs, and tooling integration.
+- [Swimm](https://swimm.io) - AI-driven documentation that stays coupled to code and auto-updates when code changes.
 
 ## Technical Debt Management
 
