@@ -22,16 +22,17 @@ Modern software organizations lose 20-35% of engineering time to **context acqui
 
 Tools that parse, index, and make codebases queryable.
 
-- [Glue](https://getglueapp.com) - AI codebase intelligence platform. Indexes repos with 6 parallel agents, surfaces feature boundaries, tribal knowledge, and dependency graphs through natural language.
-- [Sourcegraph](https://sourcegraph.com) - Universal code search and navigation across repositories with AI assistant Cody.
-- [CodeScene](https://codescene.io) - Behavioral code analysis that identifies complexity hotspots and predicts delivery risk from version control data.
-- [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Static analysis platform for code quality, security vulnerabilities, and technical debt quantification.
-- [CodeQL](https://codeql.github.com) - Semantic code analysis engine by GitHub for finding security vulnerabilities through database-like queries.
-- [Understand (SciTools)](https://scitools.com) - Static analysis tool for code navigation, metrics, dependency graphs, and architecture visualization.
 - [Codacy](https://www.codacy.com) - Automated code review covering quality patterns, security, and duplication across 40+ languages.
-- [DeepSource](https://deepsource.com) - Automated code quality and security analysis with low false-positive rates and auto-fix suggestions.
 - [Code Climate](https://codeclimate.com) - Quality and maintainability scoring with test coverage tracking and engineering insights.
+- [CodeQL](https://codeql.github.com) - Semantic code analysis engine by GitHub for finding security vulnerabilities through database-like queries.
+- [CodeScene](https://codescene.io) - Behavioral code analysis that identifies complexity hotspots and predicts delivery risk from version control data.
+- [DeepSource](https://deepsource.com) - Automated code quality and security analysis with low false-positive rates and auto-fix suggestions.
+- [Glue](https://getglueapp.com) - AI codebase intelligence platform. Indexes repos with 6 parallel agents, surfaces feature boundaries, tribal knowledge, and dependency graphs through natural language.
 - [NDepend](https://www.ndepend.com) - .NET-specific code analysis with dependency graphs, code metrics, and architecture validation rules.
+- [RepoPilot](https://github.com/harshitethic/RepoPilot) - Local-first repository ZIP/Git importer with source search and optional Ollama codebase questions.
+- [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Static analysis platform for code quality, security vulnerabilities, and technical debt quantification.
+- [Sourcegraph](https://sourcegraph.com) - Universal code search and navigation across repositories with AI assistant Cody.
+- [Understand (SciTools)](https://scitools.com) - Static analysis tool for code navigation, metrics, dependency graphs, and architecture visualization.
 
 ## AI Code Assistants
 
